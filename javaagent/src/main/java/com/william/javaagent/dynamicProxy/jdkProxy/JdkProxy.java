@@ -1,7 +1,5 @@
-package com.william.javaagent.dynamicProxy.jdkProxyDemo;
+package com.william.javaagent.dynamicProxy.jdkProxy;
 
-import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**

@@ -1,4 +1,4 @@
-package com.william.javaagent.dynamicProxy.cglibProxyDemo;
+package com.william.javaagent.dynamicProxy.cglibProxy;
 
 import org.aspectj.lang.annotation.Aspect;
 

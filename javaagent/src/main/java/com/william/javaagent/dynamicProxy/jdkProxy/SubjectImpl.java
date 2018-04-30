@@ -1,4 +1,4 @@
-package com.william.javaagent.dynamicProxy.jdkProxyDemo;
+package com.william.javaagent.dynamicProxy.jdkProxy;
 
 import org.aspectj.lang.annotation.Aspect;
 

@@ -1,12 +1,8 @@
 package com.william.javaagent.dynamicProxy;
 
-import com.william.javaagent.dynamicProxy.cglibProxyDemo.CglibProxy;
-import com.william.javaagent.dynamicProxy.cglibProxyDemo.Subject;
-import com.william.javaagent.dynamicProxy.jdkProxyDemo.JdkProxy;
-import com.william.javaagent.dynamicProxy.jdkProxyDemo.SubjectImpl;
+import com.william.javaagent.dynamicProxy.cglibProxy.CglibProxy;
+import com.william.javaagent.dynamicProxy.jdkProxy.JdkProxy;
 import org.aspectj.lang.annotation.Aspect;
-
-import java.lang.annotation.Annotation;
 
 /**
  * User: William Cheng

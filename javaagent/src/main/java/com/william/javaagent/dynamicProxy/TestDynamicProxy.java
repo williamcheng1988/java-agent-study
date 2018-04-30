@@ -1,8 +1,8 @@
 package com.william.javaagent.dynamicProxy;
 
-import com.william.javaagent.dynamicProxy.cglibProxyDemo.Subject;
-import com.william.javaagent.dynamicProxy.jdkProxyDemo.ISubject;
-import com.william.javaagent.dynamicProxy.jdkProxyDemo.SubjectImpl;
+import com.william.javaagent.dynamicProxy.cglibProxy.Subject;
+import com.william.javaagent.dynamicProxy.jdkProxy.ISubject;
+import com.william.javaagent.dynamicProxy.jdkProxy.SubjectImpl;
 
 /**
  * User: William Cheng

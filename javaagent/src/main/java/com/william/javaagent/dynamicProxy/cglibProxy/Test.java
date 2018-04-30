@@ -1,6 +1,4 @@
-package com.william.javaagent.dynamicProxy.cglibProxyDemo;
-
-import net.sf.cglib.proxy.Enhancer;
+package com.william.javaagent.dynamicProxy.cglibProxy;
 
 /**
  * User: William Cheng
