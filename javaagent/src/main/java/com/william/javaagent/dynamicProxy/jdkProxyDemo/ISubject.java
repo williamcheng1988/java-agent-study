@@ -5,7 +5,7 @@ package com.william.javaagent.dynamicProxy.jdkProxyDemo;
  * Create Time: 2018/4/30 17:48
  * Description:
  */
-interface ISubject {
+public interface ISubject {
     void hello1(String str);
     void hello2(String str);
 }

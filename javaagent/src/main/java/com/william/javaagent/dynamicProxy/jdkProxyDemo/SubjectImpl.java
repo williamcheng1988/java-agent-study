@@ -5,7 +5,7 @@ package com.william.javaagent.dynamicProxy.jdkProxyDemo;
  * Create Time: 2018/4/30 17:48
  * Description:
  */
-class RealSubject implements ISubject {
+public class SubjectImpl implements ISubject {
     @Override
     public void hello1(String str) {
         System.out.println("This is hello1:" + str);

@@ -8,7 +8,7 @@ package com.william.javaagent.dynamicProxy.jdkProxyDemo;
 public class Test {
 
     public static void main(String[] args) {
-        ISubject subject = (ISubject) new JdkProxy(new RealSubject()).getProxyInstance();
+        ISubject subject = (ISubject) new JdkProxy(new SubjectImpl()).getProxyInstance();
 
         System.out.println(subject.getClass().getName());
         subject.hello1("张三");
