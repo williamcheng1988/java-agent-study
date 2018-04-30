@@ -18,3 +18,4 @@ target/*
 *.classpath
 /bin/
 /target/
+/*/target/
